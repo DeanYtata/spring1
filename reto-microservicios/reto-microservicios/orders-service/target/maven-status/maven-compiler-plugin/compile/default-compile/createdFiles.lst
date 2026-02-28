@@ -1,0 +1,6 @@
+com\reto\orders\Order.class
+com\reto\orders\OrderRepository.class
+com\reto\orders\RabbitMQConfig.class
+com\reto\orders\OrderController.class
+com\reto\orders\OrderMessageProducer.class
+com\reto\orders\OrdersServiceApplication.class

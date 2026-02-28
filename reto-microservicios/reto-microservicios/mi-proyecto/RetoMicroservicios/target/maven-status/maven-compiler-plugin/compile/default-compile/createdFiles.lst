@@ -1,0 +1,6 @@
+com\reto\auth\UserDTO.class
+com\reto\auth\UserRepository.class
+com\reto\auth\UserService.class
+com\reto\auth\AuthServiceApplication.class
+com\reto\auth\User.class
+com\reto\auth\AuthController.class

@@ -1,0 +1,6 @@
+com\reto\catalog\CatalogServiceApplication.class
+com\reto\catalog\ProductRepository.class
+com\reto\catalog\Product.class
+com\reto\catalog\CatalogController.class
+com\reto\catalog\OrderMessageConsumer.class
+com\reto\catalog\RabbitMQConfig.class
